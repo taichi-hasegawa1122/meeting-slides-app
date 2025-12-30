@@ -37,7 +37,7 @@ export async function POST(request: NextRequest) {
   "agendas": [
     {
       "title": "短いタイトル",
-      "summary": "・ポイント1\\n・ポイント2\\n・ポイント3"
+      "summary": "ポイント1。ポイント2。ポイント3"
     }
   ]
 }
